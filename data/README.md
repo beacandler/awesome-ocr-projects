@@ -3,4 +3,4 @@ A collection of projects to synthesise training data for OCR detection and recog
 
 ## Projects
   - [word-render](https://github.com/Sanster/text_renderer)
-  ![word_render](./figures/word_render.png){:height="30%" width="30%"}
+  ![word_render](./figures/word_render.png =300x1000)
